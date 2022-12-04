@@ -12,7 +12,7 @@ const ProductOpened = () => {
 				<div className="w-full h-60 bg-red-200 rounded-xl shadow-sm"></div>
 				<div className="flex my-6">
 					<section className="w-1/2">
-						<p className="text-xl font-semibold">Legion Y520</p>
+						<p className="text-xl font-semibold">Legion Y530</p>
 						<div>
 							<p className="text-sm">Home & Appliances </p>
 							<p className="text-xs">18 hours ago </p>
